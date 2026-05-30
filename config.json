@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeruave",
+        "uuid": 4866888,
+        "checksum": "4ycdzs"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
